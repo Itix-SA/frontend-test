@@ -24,6 +24,7 @@ https://fakestoreapi.com/products
 
 ### Design
 For the product listing page, replicate: https://www.luxcaddy.lu/en/category/218/Asian-Corner.html
+
 For the product description page, replicate: https://www.luxcaddy.lu/en/product/11505/Sushis-Futomaki-Box.html
 
 ## Others
